@@ -22,6 +22,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "GoogleMapsDraft"
+rootProject.name = "CycleCompanion"
 include(":app")
  
