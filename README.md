@@ -50,7 +50,7 @@ To get a local copy up and running, follow the steps below.
 Open the project in Android Studio.
 Android Studio will automatically sync Gradle and download the necessary dependencies.
 
-🛠️ Building and Running the Project
+### 🛠️ Building and Running the Project
 Using Gradle Wrapper
 On Windows:
 
