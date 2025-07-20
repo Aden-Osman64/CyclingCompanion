@@ -20,10 +20,6 @@ CycleCompanion/
 ├── settings.gradle.kts # Repositories & module declarations
 └── local.properties # Android SDK path (auto-generated)
 
-yaml
-Copy
-Edit
-
 ---
 
 ## 🚀 Getting Started
